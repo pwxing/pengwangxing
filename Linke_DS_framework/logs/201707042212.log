@@ -1,0 +1,16 @@
+2017-07-04 22:12:54,565 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-04 22:12:54,565 - BrowserEngine - INFO - The test server url is: https://bmtest.ematong.com
+2017-07-04 22:12:58,276 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-04 22:12:59,046 - BrowserEngine - INFO - Open url: https://bmtest.ematong.com
+2017-07-04 22:13:00,197 - BrowserEngine - INFO - Maximize the current window.
+2017-07-04 22:13:00,200 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-04 22:13:00,247 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-04 22:13:00,321 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-04 22:13:00,357 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-04 22:13:00,424 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-04 22:13:00,461 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-04 22:13:00,497 - BasePage - INFO - The element  was clicked.
+2017-07-04 22:13:02,549 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-04 22:13:04,447 - BasePage - INFO - The element  was clicked.
+2017-07-04 22:13:06,507 - BasePage - INFO - The element ' 页面管理 ' was clicked.
+2017-07-04 22:13:08,063 - BasePage - INFO - The element ' 列表展示 ' was clicked.

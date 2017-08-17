@@ -1,0 +1,29 @@
+2017-07-05 23:12:20,246 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-05 23:12:20,246 - BrowserEngine - INFO - The test server url is: https://bmtest.ematong.com
+2017-07-05 23:12:23,947 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-05 23:12:24,703 - BrowserEngine - INFO - Open url: https://bmtest.ematong.com
+2017-07-05 23:12:25,894 - BrowserEngine - INFO - Maximize the current window.
+2017-07-05 23:12:25,898 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-05 23:12:25,948 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-05 23:12:26,016 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-05 23:12:26,056 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-05 23:12:26,125 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-05 23:12:26,154 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-05 23:12:26,194 - BasePage - INFO - The element  was clicked.
+2017-07-05 23:12:28,249 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-05 23:12:30,210 - BasePage - INFO - The element  was clicked.
+2017-07-05 23:12:31,700 - BasePage - INFO - The element ' 基础设置 ' was clicked.
+2017-07-05 23:12:32,743 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='refundSettingForm']/table/tbody/tr/td[2]/table/tbody/tr[1]/td[1]/label[2]/input 
+2017-07-05 23:12:32,776 - BasePage - INFO - The element  was clicked.
+2017-07-05 23:12:33,828 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='refundSettingForm']/table/tbody/tr/td[2]/table/tbody/tr[1]/td[1]/label[1]/input 
+2017-07-05 23:12:33,878 - BasePage - INFO - The element  was clicked.
+2017-07-05 23:12:33,918 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='refundSettingForm']/table/tbody/tr/td[2]/table/tbody/tr[1]/td[2]/label[2]/input 
+2017-07-05 23:12:33,953 - BasePage - INFO - The element  was clicked.
+2017-07-05 23:12:34,997 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='refundSettingForm']/table/tbody/tr/td[2]/table/tbody/tr[1]/td[2]/label[1]/input 
+2017-07-05 23:12:35,030 - BasePage - INFO - The element  was clicked.
+2017-07-05 23:12:35,078 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='refundSettingForm']/table/tbody/tr/td[2]/table/tbody/tr[1]/td[3]/label[2]/input 
+2017-07-05 23:12:35,099 - BasePage - INFO - The element  was clicked.
+2017-07-05 23:12:37,170 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='refundSettingForm']/table/tbody/tr/td[2]/table/tbody/tr[1]/td[3]/label[1]/input 
+2017-07-05 23:12:37,224 - BasePage - INFO - The element  was clicked.
+2017-07-05 23:12:37,256 - BasePage - INFO - Had find the element ' 4 ' successful by xpath via value: //*[@name='finishDay']/option[4] 
+2017-07-05 23:12:37,283 - BasePage - INFO - The element  was clicked.

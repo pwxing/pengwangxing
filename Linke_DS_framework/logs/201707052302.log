@@ -1,0 +1,17 @@
+2017-07-05 23:02:14,726 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-05 23:02:14,726 - BrowserEngine - INFO - The test server url is: https://bmtest.ematong.com
+2017-07-05 23:02:18,398 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-05 23:02:19,209 - BrowserEngine - INFO - Open url: https://bmtest.ematong.com
+2017-07-05 23:02:20,381 - BrowserEngine - INFO - Maximize the current window.
+2017-07-05 23:02:20,384 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-05 23:02:20,423 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-05 23:02:20,480 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-05 23:02:20,513 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-05 23:02:20,579 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-05 23:02:20,609 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-05 23:02:20,644 - BasePage - INFO - The element  was clicked.
+2017-07-05 23:02:22,671 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-05 23:02:24,605 - BasePage - INFO - The element  was clicked.
+2017-07-05 23:02:25,730 - BasePage - INFO - The element ' 基础设置 ' was clicked.
+2017-07-05 23:02:26,767 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='refundSettingForm']/table/tbody/tr/td[2]/table/tbody/tr[1]/td[1]/label[2]/input 
+2017-07-05 23:02:26,798 - BasePage - INFO - The element  was clicked.

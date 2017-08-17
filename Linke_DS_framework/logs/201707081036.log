@@ -1,0 +1,32 @@
+2017-07-08 10:36:49,897 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-08 10:36:49,897 - BrowserEngine - INFO - The test server url is: https://bmtest.ematong.com
+2017-07-08 10:36:53,644 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-08 10:36:54,390 - BrowserEngine - INFO - Open url: https://bmtest.ematong.com
+2017-07-08 10:36:55,548 - BrowserEngine - INFO - Maximize the current window.
+2017-07-08 10:36:55,551 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-08 10:36:55,592 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-08 10:36:55,654 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-08 10:36:55,687 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-08 10:36:55,753 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-08 10:36:55,812 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-08 10:36:55,854 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:36:57,894 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-08 10:37:00,033 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:37:02,664 - BasePage - INFO - The element ' 属性模板 ' was clicked.
+2017-07-08 10:37:03,994 - BasePage - INFO - The element ' 模板列表 ' was clicked.
+2017-07-08 10:37:04,394 - BasePage - INFO - The element ' 添加模板 ' was clicked.
+2017-07-08 10:37:04,427 - BasePage - INFO - Had find the element ' 服装 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[3] 
+2017-07-08 10:37:04,443 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:37:04,477 - BasePage - INFO - Had find the element ' 食品 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[4] 
+2017-07-08 10:37:04,523 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:37:04,558 - BasePage - INFO - Had find the element ' 珠宝 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[5] 
+2017-07-08 10:37:04,585 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:37:04,637 - BasePage - INFO - Had find the element ' 美鞋 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[6] 
+2017-07-08 10:37:04,667 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:37:04,707 - BasePage - INFO - Had find the element ' 化妆品 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[7] 
+2017-07-08 10:37:04,736 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:37:04,775 - BasePage - INFO - Had find the element ' 自定义 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[2] 
+2017-07-08 10:37:04,792 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:37:04,835 - BasePage - INFO - Had find the element ' 添加 ' successful by id via value: addmodeltemplate 
+2017-07-08 10:37:04,868 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:37:04,937 - BasePage - INFO - Had type ' seleniumA ' in inputBox

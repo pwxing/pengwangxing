@@ -1,0 +1,60 @@
+2017-07-26 21:54:26,888 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-26 21:54:26,888 - BrowserEngine - INFO - The test server url is: http://bmtest.ematong.com
+2017-07-26 21:54:30,538 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-26 21:54:31,255 - BrowserEngine - INFO - Open url: http://bmtest.ematong.com
+2017-07-26 21:54:32,410 - BrowserEngine - INFO - Maximize the current window.
+2017-07-26 21:54:32,411 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-26 21:54:32,443 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-26 21:54:32,499 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-26 21:54:32,528 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-26 21:54:32,591 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-26 21:54:32,625 - BasePage - INFO - Had find the element '  ' successful by id via value: yzm2 
+2017-07-26 21:54:32,703 - BasePage - INFO - Had type ' HY7102$ ' in inputBox
+2017-07-26 21:54:32,742 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-26 21:54:32,782 - BasePage - INFO - The element  was clicked.
+2017-07-26 21:54:35,002 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-07-26 21:54:36,040 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-26 21:54:37,760 - BasePage - INFO - The element  was clicked.
+2017-07-26 21:54:38,867 - BasePage - INFO - Had find the element ' 0 ' successful by id via value: y_order 
+2017-07-26 21:54:38,894 - BasePage - INFO - element_text(id=>y_order) is 0
+2017-07-26 21:54:38,960 - BasePage - INFO - Had find the element ' 0 ' successful by id via value: y_amount 
+2017-07-26 21:54:38,976 - BasePage - INFO - element_text(id=>y_amount) is 0
+2017-07-26 21:54:39,033 - BasePage - INFO - Had find the element ' 12 ' successful by id via value: y_nosend 
+2017-07-26 21:54:39,045 - BasePage - INFO - element_text(id=>y_nosend) is 12
+2017-07-26 21:54:39,115 - BasePage - INFO - Had find the element ' 0 ' successful by id via value: y_wait 
+2017-07-26 21:54:39,128 - BasePage - INFO - element_text(id=>y_wait) is 0
+2017-07-26 21:54:39,196 - BasePage - INFO - Had find the element ' 2 ' successful by id via value: y_refund 
+2017-07-26 21:54:39,209 - BasePage - INFO - element_text(id=>y_refund) is 2
+2017-07-26 21:54:39,249 - BasePage - INFO - Had find the element ' 0 ' successful by id via value: y_order 
+2017-07-26 21:54:39,671 - BasePage - INFO - The element  was clicked.
+2017-07-26 21:54:41,990 - BasePage - INFO - The element  was clicked.
+2017-07-26 21:54:43,049 - BasePage - INFO - The element  was clicked.
+2017-07-26 21:54:43,158 - BasePage - INFO - Had find the element ' 昨天
+近一周
+近一月
+自定义时间 ' successful by id via value: timeFlag 
+2017-07-26 21:54:43,226 - BasePage - INFO - Had type ' 近一周 ' in inputBox
+2017-07-26 21:54:45,269 - BasePage - INFO - Had find the element ' 昨天
+近一周
+近一月
+自定义时间 ' successful by id via value: timeFlag 
+2017-07-26 21:54:45,299 - BasePage - INFO - Had type ' 近一月 ' in inputBox
+2017-07-26 21:54:47,342 - BasePage - INFO - Had find the element ' 昨天
+近一周
+近一月
+自定义时间 ' successful by id via value: timeFlag 
+2017-07-26 21:54:47,381 - BasePage - INFO - Had type ' 昨天 ' in inputBox
+2017-07-26 21:54:49,424 - BasePage - INFO - Had find the element ' 昨天
+近一周
+近一月
+自定义时间 ' successful by id via value: timeFlag 
+2017-07-26 21:54:49,486 - BasePage - INFO - Had type ' 自定义时间 ' in inputBox
+2017-07-26 21:54:51,572 - BasePage - INFO - Had find the element '  ' successful by id via value: startTime 
+2017-07-26 21:54:51,664 - BasePage - INFO - Had type ' 2017-07-20 ' in inputBox
+2017-07-26 21:54:51,714 - BasePage - INFO - Had find the element '  ' successful by id via value: endTime 
+2017-07-26 21:54:51,808 - BasePage - INFO - Had type ' 2017-07-25 ' in inputBox
+2017-07-26 21:54:52,838 - BasePage - INFO - Had find the element ' 昨天
+近一周
+近一月
+自定义时间 ' successful by id via value: timeFlag 
+2017-07-26 21:54:52,905 - BasePage - INFO - The element  was clicked.

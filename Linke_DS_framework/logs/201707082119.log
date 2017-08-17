@@ -1,0 +1,40 @@
+2017-07-08 21:19:33,867 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-08 21:19:33,867 - BrowserEngine - INFO - The test server url is: https://bmtest.ematong.com
+2017-07-08 21:19:37,592 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-08 21:19:38,380 - BrowserEngine - INFO - Open url: https://bmtest.ematong.com
+2017-07-08 21:19:39,546 - BrowserEngine - INFO - Maximize the current window.
+2017-07-08 21:19:39,552 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-08 21:19:39,595 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-08 21:19:39,647 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-08 21:19:39,681 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-08 21:19:39,743 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-08 21:19:39,779 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-08 21:19:39,819 - BasePage - INFO - The element  was clicked.
+2017-07-08 21:19:41,862 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-08 21:19:44,223 - BasePage - INFO - The element  was clicked.
+2017-07-08 21:19:46,872 - BasePage - INFO - The element ' 时间模板 ' was clicked.
+2017-07-08 21:19:47,904 - BasePage - INFO - Had find the element '  ' successful by id via value: default1 
+2017-07-08 21:19:47,944 - BasePage - INFO - the checkbox is click.
+2017-07-08 21:19:52,983 - BasePage - INFO - Had find the element '  ' successful by id via value: default1 
+2017-07-08 21:19:53,046 - BasePage - INFO - the checkbox is cancel.
+2017-07-08 21:19:53,115 - BasePage - INFO - Had find the element '  ' successful by id via value: exptype1 
+2017-07-08 21:19:53,147 - BasePage - INFO - The element  was clicked.
+2017-07-08 21:19:53,180 - BasePage - INFO - Had find the element ' 购买第三日起 ' successful by xpath via value: //*[@id='beforegd1']/option[3] 
+2017-07-08 21:19:53,198 - BasePage - INFO - The element  was clicked.
+2017-07-08 21:19:53,273 - BasePage - INFO - Had type ' 9 ' in inputBox
+2017-07-08 21:19:58,332 - BasePage - INFO - Had find the element '  ' successful by id via value: exptype2 
+2017-07-08 21:19:58,362 - BasePage - INFO - The element  was clicked.
+2017-07-08 21:19:58,405 - BasePage - INFO - Had find the element ' 购买第五日起 ' successful by xpath via value: //*[@id='beforegd2']/option[5] 
+2017-07-08 21:19:58,430 - BasePage - INFO - The element  was clicked.
+2017-07-08 21:19:58,532 - BasePage - INFO - Had type ' 2017-08-12 ' in inputBox
+2017-07-08 21:20:03,599 - BasePage - INFO - Had find the element '  ' successful by id via value: exptype3 
+2017-07-08 21:20:03,647 - BasePage - INFO - The element  was clicked.
+2017-07-08 21:20:03,690 - BasePage - INFO - Had find the element '  ' successful by id via value: startexpire 
+2017-07-08 21:20:03,753 - BasePage - INFO - Had type ' 2017-07-15 ' in inputBox
+2017-07-08 21:20:03,785 - BasePage - INFO - Had find the element '  ' successful by id via value: endexpire 
+2017-07-08 21:20:03,841 - BasePage - INFO - Had type ' 2017-08-30 ' in inputBox
+2017-07-08 21:20:08,914 - BasePage - INFO - Had find the element '  ' successful by id via value: buytime-check 
+2017-07-08 21:20:08,947 - BasePage - INFO - the checkbox is click.
+2017-07-08 21:20:09,032 - BasePage - INFO - Had type ' 20:35 ' in inputBox
+2017-07-08 21:20:11,073 - BasePage - INFO - Had find the element '  ' successful by id via value: buytime-check 
+2017-07-08 21:20:11,121 - BasePage - INFO - the checkbox is cancel.

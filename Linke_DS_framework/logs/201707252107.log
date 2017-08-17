@@ -1,0 +1,56 @@
+2017-07-25 21:07:23,463 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-25 21:07:23,463 - BrowserEngine - INFO - The test server url is: http://bbm.ematong.com
+2017-07-25 21:07:27,157 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-25 21:07:30,665 - BrowserEngine - INFO - Open url: http://bbm.ematong.com
+2017-07-25 21:07:31,835 - BrowserEngine - INFO - Maximize the current window.
+2017-07-25 21:07:31,839 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-25 21:07:31,880 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-25 21:07:31,943 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-25 21:07:31,974 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-25 21:07:32,036 - BasePage - INFO - Had type ' hy2017 ' in inputBox
+2017-07-25 21:07:32,073 - BasePage - INFO - Had find the element '  ' successful by id via value: yzm2 
+2017-07-25 21:07:32,134 - BasePage - INFO - Had type ' HY7102$ ' in inputBox
+2017-07-25 21:07:32,164 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-25 21:07:32,213 - BasePage - INFO - The element  was clicked.
+2017-07-25 21:07:38,180 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-25 21:07:40,875 - BasePage - INFO - The element  was clicked.
+2017-07-25 21:07:43,964 - BasePage - INFO - The element ' 商品管理 ' was clicked.
+2017-07-25 21:07:46,073 - BasePage - INFO - The element ' 发布商品 ' was clicked.
+2017-07-25 21:07:46,157 - BasePage - INFO - Had find the element ' 运动健康 ' successful by xpath via value: //*[@id='category1']/p[3] 
+2017-07-25 21:07:46,206 - BasePage - INFO - The element  was clicked.
+2017-07-25 21:07:46,301 - BasePage - INFO - Had find the element ' 运动服饰 ' successful by xpath via value: //*[@id='category2']/p[2] 
+2017-07-25 21:07:46,325 - BasePage - INFO - The element  was clicked.
+2017-07-25 21:07:46,426 - BasePage - INFO - Had find the element ' 运动套装 ' successful by xpath via value: //*[@id='category3']/p[1] 
+2017-07-25 21:07:46,456 - BasePage - INFO - The element  was clicked.
+2017-07-25 21:07:46,484 - BasePage - INFO - Had find the element '                         选择商品类别
+                        
+                            实体商品
+                        
+                            虚拟商品
+                        
+                     ' successful by id via value: selectGoodsType1 
+2017-07-25 21:07:46,525 - BasePage - INFO - The select  was clicked.
+2017-07-25 21:07:46,562 - BasePage - INFO - Had find the element '  ' successful by id via value: add_goodsname 
+2017-07-25 21:07:46,704 - BasePage - INFO - Had type ' python自动创建普通商品2017_07_25_21_07_23 ' in inputBox
+2017-07-25 21:07:46,747 - BasePage - INFO - Had find the element '  ' successful by id via value: add_goodsCode 
+2017-07-25 21:07:46,816 - BasePage - INFO - Had type ' goods_code ' in inputBox
+2017-07-25 21:07:46,852 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='upload_ls']/dd[1]/div[1]/img[2] 
+2017-07-25 21:07:47,494 - BasePage - INFO - The element  was clicked.
+2017-07-25 21:07:48,631 - BasePage - INFO - The element ' 图库选择 ' was clicked.
+2017-07-25 21:07:49,693 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='upload-list']/div[1]/div[1]/img 
+2017-07-25 21:07:49,740 - BasePage - INFO - The element  was clicked.
+2017-07-25 21:07:50,813 - BasePage - INFO - Had find the element ' 确定 ' successful by xpath via value: /html/body/div[4]/div[2]/a[1] 
+2017-07-25 21:07:50,875 - BasePage - INFO - The element  was clicked.
+2017-07-25 21:07:50,920 - BasePage - INFO - Had find the element '  ' successful by id via value: add_remark 
+2017-07-25 21:07:50,984 - BasePage - INFO - Had type ' 这里是商品描述 ' in inputBox
+2017-07-25 21:07:52,052 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='ejsxTb2']/tbody/tr/td[1]/input 
+2017-07-25 21:07:52,128 - BasePage - INFO - Had type ' 111 ' in inputBox
+2017-07-25 21:07:52,161 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='ejsxTb2']/tbody/tr/td[2]/input 
+2017-07-25 21:07:52,210 - BasePage - INFO - Had type ' 222 ' in inputBox
+2017-07-25 21:07:52,242 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='ejsxTb2']/tbody/tr/td[4]/input 
+2017-07-25 21:07:52,293 - BasePage - INFO - Had type ' 333 ' in inputBox
+2017-07-25 21:07:52,328 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='ejsxTb2']/tbody/tr/td[5]/input 
+2017-07-25 21:07:52,381 - BasePage - INFO - Had type ' 444 ' in inputBox
+2017-07-25 21:07:53,457 - BasePage - INFO - The element  was clicked.
+2017-07-25 21:07:53,507 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='page_block_4']/div[4]/table[2]/tbody[2]/tr[1]/td[3]/label/input 
+2017-07-25 21:07:53,536 - BasePage - INFO - The element  was clicked.

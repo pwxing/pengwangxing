@@ -1,0 +1,31 @@
+2017-07-26 21:52:27,651 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-26 21:52:27,651 - BrowserEngine - INFO - The test server url is: http://bmtest.ematong.com
+2017-07-26 21:52:31,305 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-26 21:52:32,013 - BrowserEngine - INFO - Open url: http://bmtest.ematong.com
+2017-07-26 21:52:33,176 - BrowserEngine - INFO - Maximize the current window.
+2017-07-26 21:52:33,178 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-26 21:52:33,216 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-26 21:52:33,278 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-26 21:52:33,309 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-26 21:52:33,394 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-26 21:52:33,426 - BasePage - INFO - Had find the element '  ' successful by id via value: yzm2 
+2017-07-26 21:52:33,493 - BasePage - INFO - Had type ' HY7102$ ' in inputBox
+2017-07-26 21:52:33,526 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-26 21:52:33,578 - BasePage - INFO - The element  was clicked.
+2017-07-26 21:52:35,645 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-07-26 21:52:36,684 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-26 21:52:38,438 - BasePage - INFO - The element  was clicked.
+2017-07-26 21:52:39,502 - BasePage - INFO - Had find the element ' 0 ' successful by id via value: y_order 
+2017-07-26 21:52:39,523 - BasePage - INFO - element_text(id=>y_order) is 0
+2017-07-26 21:52:39,588 - BasePage - INFO - Had find the element ' 0 ' successful by id via value: y_amount 
+2017-07-26 21:52:39,598 - BasePage - INFO - element_text(id=>y_amount) is 0
+2017-07-26 21:52:39,654 - BasePage - INFO - Had find the element ' 12 ' successful by id via value: y_nosend 
+2017-07-26 21:52:39,664 - BasePage - INFO - element_text(id=>y_nosend) is 12
+2017-07-26 21:52:39,825 - BasePage - INFO - Had find the element ' 0 ' successful by id via value: y_wait 
+2017-07-26 21:52:39,842 - BasePage - INFO - element_text(id=>y_wait) is 0
+2017-07-26 21:52:39,938 - BasePage - INFO - Had find the element ' 2 ' successful by id via value: y_refund 
+2017-07-26 21:52:39,947 - BasePage - INFO - element_text(id=>y_refund) is 2
+2017-07-26 21:52:39,976 - BasePage - INFO - Had find the element ' 0 ' successful by id via value: y_order 
+2017-07-26 21:52:40,484 - BasePage - INFO - The element  was clicked.
+2017-07-26 21:52:42,776 - BasePage - INFO - The element  was clicked.
+2017-07-26 21:52:43,842 - BasePage - INFO - The element  was clicked.

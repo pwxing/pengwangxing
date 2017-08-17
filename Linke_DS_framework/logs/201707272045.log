@@ -1,0 +1,23 @@
+2017-07-27 20:45:48,809 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-27 20:45:48,809 - BrowserEngine - INFO - The test server url is: http://bmtest.ematong.com
+2017-07-27 20:45:52,499 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-27 20:45:53,349 - BrowserEngine - INFO - Open url: http://bmtest.ematong.com
+2017-07-27 20:45:54,497 - BrowserEngine - INFO - Maximize the current window.
+2017-07-27 20:45:54,503 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-27 20:45:54,549 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-27 20:45:54,608 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-27 20:45:54,645 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-27 20:45:54,719 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-27 20:45:54,747 - BasePage - INFO - Had find the element '  ' successful by id via value: yzm2 
+2017-07-27 20:45:54,822 - BasePage - INFO - Had type ' HY7102$ ' in inputBox
+2017-07-27 20:45:54,858 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-27 20:45:54,894 - BasePage - INFO - The element  was clicked.
+2017-07-27 20:45:56,960 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-27 20:45:58,956 - BasePage - INFO - The element  was clicked.
+2017-07-27 20:46:01,276 - BasePage - INFO - The element ' 分类管理 ' was clicked.
+2017-07-27 20:46:03,309 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='saveForm']/table/tbody[1]/tr[1]/td[1]/img[1] 
+2017-07-27 20:46:03,342 - BasePage - INFO - The element  was clicked.
+2017-07-27 20:46:04,375 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='saveForm']/table/tbody[2]/tr[1]/td[1]/img[1] 
+2017-07-27 20:46:04,407 - BasePage - INFO - The element  was clicked.
+2017-07-27 20:46:05,466 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='saveForm']/table/tbody[3]/tr[1]/td[1]/img[1] 
+2017-07-27 20:46:05,509 - BasePage - INFO - The element  was clicked.

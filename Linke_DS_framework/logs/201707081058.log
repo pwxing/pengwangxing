@@ -1,0 +1,45 @@
+2017-07-08 10:58:27,486 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-08 10:58:27,486 - BrowserEngine - INFO - The test server url is: https://bmtest.ematong.com
+2017-07-08 10:58:31,181 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-08 10:58:31,983 - BrowserEngine - INFO - Open url: https://bmtest.ematong.com
+2017-07-08 10:58:33,138 - BrowserEngine - INFO - Maximize the current window.
+2017-07-08 10:58:33,141 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-08 10:58:33,187 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-08 10:58:33,253 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-08 10:58:33,289 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-08 10:58:33,358 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-08 10:58:33,387 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-08 10:58:33,436 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:58:35,466 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-08 10:58:37,618 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:58:39,891 - BasePage - INFO - The element ' 属性模板 ' was clicked.
+2017-07-08 10:58:41,176 - BasePage - INFO - The element ' 模板列表 ' was clicked.
+2017-07-08 10:58:41,267 - BasePage - INFO - The element ' 添加模板 ' was clicked.
+2017-07-08 10:58:41,611 - BasePage - INFO - Had find the element ' 服装 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[3] 
+2017-07-08 10:58:41,638 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:58:41,664 - BasePage - INFO - Had find the element ' 食品 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[4] 
+2017-07-08 10:58:41,707 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:58:41,742 - BasePage - INFO - Had find the element ' 珠宝 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[5] 
+2017-07-08 10:58:41,773 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:58:41,805 - BasePage - INFO - Had find the element ' 美鞋 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[6] 
+2017-07-08 10:58:41,836 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:58:41,871 - BasePage - INFO - Had find the element ' 化妆品 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[7] 
+2017-07-08 10:58:41,904 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:58:41,940 - BasePage - INFO - Had find the element ' 自定义 ' successful by xpath via value: /html/body/contextpath/div/div[3]/div[1]/div[5]/span[2] 
+2017-07-08 10:58:41,960 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:58:41,999 - BasePage - INFO - Had find the element ' 添加 ' successful by id via value: addmodeltemplate 
+2017-07-08 10:58:42,025 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:58:42,105 - BasePage - INFO - Had type ' seleniumA ' in inputBox
+2017-07-08 10:58:42,138 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='zdy']/form/table/tbody/tr/td[2]/input[1] 
+2017-07-08 10:58:42,193 - BasePage - INFO - Had type ' AAA ' in inputBox
+2017-07-08 10:58:42,219 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='zdy']/form/table/tbody/tr/td[2]/input[2] 
+2017-07-08 10:58:42,267 - BasePage - INFO - Had type ' BBB ' in inputBox
+2017-07-08 10:58:42,295 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='zdy']/form/table/tbody/tr/td[2]/input[3] 
+2017-07-08 10:58:42,357 - BasePage - INFO - Had type ' CCC ' in inputBox
+2017-07-08 10:58:42,638 - BasePage - INFO - The element ' 模板列表 ' was clicked.
+2017-07-08 10:58:43,720 - BasePage - INFO - Had find the element ' 编辑 ' successful by xpath via value: //*[@id='contentDiv']/div[1]/div/a[1] 
+2017-07-08 10:58:44,069 - BasePage - INFO - The element  was clicked.
+2017-07-08 10:58:44,105 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='edit']/form/table/tbody/tr/td[2]/input[3] 
+2017-07-08 10:58:44,122 - BasePage - INFO - Clear text in input box before typing.
+2017-07-08 10:58:44,138 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='edit']/form/table/tbody/tr/td[2]/input[3] 
+2017-07-08 10:58:44,177 - BasePage - INFO - Had type ' DEF ' in inputBox

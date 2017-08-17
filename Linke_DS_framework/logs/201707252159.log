@@ -1,0 +1,26 @@
+2017-07-25 21:59:38,265 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-25 21:59:38,265 - BrowserEngine - INFO - The test server url is: http://bbm.ematong.com
+2017-07-25 21:59:42,016 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-25 21:59:45,579 - BrowserEngine - INFO - Open url: http://bbm.ematong.com
+2017-07-25 21:59:46,739 - BrowserEngine - INFO - Maximize the current window.
+2017-07-25 21:59:46,742 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-25 21:59:46,783 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-25 21:59:46,839 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-25 21:59:46,877 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-25 21:59:46,937 - BasePage - INFO - Had type ' hy2017 ' in inputBox
+2017-07-25 21:59:46,976 - BasePage - INFO - Had find the element '  ' successful by id via value: yzm2 
+2017-07-25 21:59:47,048 - BasePage - INFO - Had type ' HY7102$ ' in inputBox
+2017-07-25 21:59:47,076 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-25 21:59:47,121 - BasePage - INFO - The element  was clicked.
+2017-07-25 21:59:50,440 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-25 21:59:55,750 - BasePage - INFO - The element  was clicked.
+2017-07-25 21:59:56,842 - BasePage - INFO - The element ' 商品管理 ' was clicked.
+2017-07-25 21:59:59,920 - BasePage - INFO - The element ' 自建商品 ' was clicked.
+2017-07-25 22:00:00,959 - BasePage - INFO - Had find the element ' 5 ' successful by xpath via value: //*[@id='statusCount0'] 
+2017-07-25 22:00:00,959 - BasePage - INFO - element_text(xpath=>//*[@id='statusCount0']) is 5
+2017-07-25 22:00:00,999 - BasePage - INFO - Had find the element ' 17 ' successful by xpath via value: //*[@id='statusCount1'] 
+2017-07-25 22:00:01,009 - BasePage - INFO - element_text(xpath=>//*[@id='statusCount1']) is 17
+2017-07-25 22:00:01,039 - BasePage - INFO - Had find the element ' 0 ' successful by xpath via value: //*[@id='statusCount4'] 
+2017-07-25 22:00:01,049 - BasePage - INFO - element_text(xpath=>//*[@id='statusCount4']) is 0
+2017-07-25 22:00:01,091 - BasePage - INFO - Had find the element ' 0 ' successful by xpath via value: //*[@id='statusCount2'] 
+2017-07-25 22:00:01,101 - BasePage - INFO - element_text(xpath=>//*[@id='statusCount2']) is 0

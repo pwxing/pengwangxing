@@ -1,0 +1,23 @@
+2017-07-04 23:05:01,257 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-04 23:05:01,257 - BrowserEngine - INFO - The test server url is: https://bmtest.ematong.com
+2017-07-04 23:05:04,979 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-04 23:05:05,733 - BrowserEngine - INFO - Open url: https://bmtest.ematong.com
+2017-07-04 23:05:06,901 - BrowserEngine - INFO - Maximize the current window.
+2017-07-04 23:05:06,904 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-04 23:05:06,943 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-04 23:05:06,994 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-04 23:05:07,032 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-04 23:05:07,092 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-04 23:05:07,128 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-04 23:05:07,177 - BasePage - INFO - The element  was clicked.
+2017-07-04 23:05:09,240 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-04 23:05:11,206 - BasePage - INFO - The element  was clicked.
+2017-07-04 23:05:13,279 - BasePage - INFO - The element ' 页面管理 ' was clicked.
+2017-07-04 23:05:14,765 - BasePage - INFO - The element ' 列表展示 ' was clicked.
+2017-07-04 23:05:16,213 - BasePage - INFO - The element ' 商品详情页 ' was clicked.
+2017-07-04 23:05:16,250 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='goodDetailFrom']/table/tbody/tr/td[2]/div/p/label/input 
+2017-07-04 23:05:16,275 - BasePage - INFO - The element  was clicked.
+2017-07-04 23:05:17,338 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='goodDetailFrom']/table/tbody/tr/td[1]/div/p/label/input 
+2017-07-04 23:05:17,368 - BasePage - INFO - The element  was clicked.
+2017-07-04 23:05:18,438 - BasePage - INFO - Had find the element ' 保存 ' successful by xpath via value: //*[@id='submitBtn'] 
+2017-07-04 23:05:18,473 - BasePage - INFO - The element  was clicked.
